@@ -24,10 +24,6 @@ lib/
 ├── widgets/              # Custom reusable widgets
 └── main.dart             # App entry point
 ```
-
-## 📸 Screenshots
-_(Add screenshots of your app here)_
-
 ## 📚 New Widgets & Provider Techniques Learned
 - **MultiProvider**: Used to manage multiple providers efficiently.
 - **ChangeNotifierProvider**: Enables efficient state management with ChangeNotifier.
@@ -40,7 +36,9 @@ _(Add screenshots of your app here)_
 ## 🤝 Contribution
 Feel free to contribute by submitting a pull request or reporting issues.
 
+## 📸 Screenshots
 
----
+![Meals-UI-01](https://github.com/user-attachments/assets/c0b97052-7214-4a5e-9b97-7440975a8a6f)
 
 
+![Meals-UI-02-01](https://github.com/user-attachments/assets/dfefd77d-7f2f-452f-bb7a-0db1b52da47b)
