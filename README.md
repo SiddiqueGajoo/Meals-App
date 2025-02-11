@@ -12,7 +12,8 @@ A beautifully designed Flutter application that allows users to explore differen
 ## 🛠 Technologies Used
 - **Flutter**: Framework for cross-platform development.
 - **Dart**: Programming language for Flutter.
-- **Provider**: State management solution.
+- **Riverpod
+- **: State management solution.
 
 ## 📂 Project Structure
 ```
@@ -24,7 +25,7 @@ lib/
 ├── widgets/              # Custom reusable widgets
 └── main.dart             # App entry point
 ```
-## 📚 New Widgets & Provider Techniques Learned
+## 📚 New Widgets & Riverpod Techniques Learned
 - **MultiProvider**: Used to manage multiple providers efficiently.
 - **ChangeNotifierProvider**: Enables efficient state management with ChangeNotifier.
 - **Consumer Widget**: Allows selective widget rebuilding based on provider updates.
