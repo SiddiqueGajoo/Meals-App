@@ -1,4 +1,4 @@
-# 🍽 Meals App
+ # 🍽 Meals App
 
 A beautifully designed Flutter application that allows users to explore different meal categories, view meal details, filter meals, and manage their favorite dishes.
 
@@ -12,8 +12,7 @@ A beautifully designed Flutter application that allows users to explore differen
 ## 🛠 Technologies Used
 - **Flutter**: Framework for cross-platform development.
 - **Dart**: Programming language for Flutter.
-- **Riverpod
-- **: State management solution.
+- **Riverpod**: State management solution.
 
 ## 📂 Project Structure
 ```
